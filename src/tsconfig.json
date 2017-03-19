@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "target": "es6",
+    "strict": true,
+    "jsx": "react",
+    "skipLibCheck": true,
+    "sourceMap": false
+  }
+  // "files": [
+    // "index.tsx"
+  // ]
+}
